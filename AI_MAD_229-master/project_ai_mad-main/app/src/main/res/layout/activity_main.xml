@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/textView1"
-        android:layout_width="350dp"
-        android:layout_height="60dp"
+        android:layout_width="300dp"
+        android:layout_height="65dp"
         android:layout_marginStart="30dp"
         android:layout_marginTop="250dp"
         android:text="Answer this"
@@ -39,8 +39,8 @@
 
     <androidx.gridlayout.widget.GridLayout
         android:id="@+id/gridLayout"
-        android:layout_width="402dp"
-        android:layout_height="342dp"
+        android:layout_width="404dp"
+        android:layout_height="343dp"
         android:layout_marginStart="30dp"
         android:layout_marginBottom="170dp"
         android:padding="10dp"
